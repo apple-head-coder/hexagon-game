@@ -13,4 +13,4 @@ config_version=5
 config/name="Hexagon Game"
 run/main_scene="uid://cs3aws5vkokry"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://assets/icon.svg"
+config/icon="res://assets/textures/icon.svg"

@@ -5,3 +5,5 @@
 [node name="Main" type="Node2D"]
 
 [node name="Tiles" parent="." instance=ExtResource("1_o5qli")]
+
+[node name="Camera2D" type="Camera2D" parent="."]
